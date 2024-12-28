@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "obyD3MWQdGZjtPC9Hw5AsDQefURxzkqIsYGOjArJFMo=",
+  "Source": "SorteoAPI",
+  "BasePath": "_content/SorteoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\controllers\\sorteoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\controllers\\sorteoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\models\\numasignado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\models\\numasignado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\models\\sorteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\models\\sorteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\data\\sorteodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\data\\sorteodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|c:\\users\\los barrios c\\source\\repos\\sorteoapi\\sorteoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0F492D-0583-4442-84DE-6B6A7B66296D}|SorteoAPI\\SorteoAPI.csproj|solutionrelative:sorteoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SorteoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\appsettings.json",
+              "RelativeToolTip": "SorteoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T21:21:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sorteo.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Sorteo.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Models\\Sorteo.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Sorteo.cs",
+              "RelativeToolTip": "SorteoAPI\\Models\\Sorteo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:52:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumAsignado.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\NumAsignado.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Models\\NumAsignado.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\NumAsignado.cs",
+              "RelativeToolTip": "SorteoAPI\\Models\\NumAsignado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:51:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "SorteoAPI\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:51:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SorteoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Data\\SorteoDBContext.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Data\\SorteoDBContext.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Data\\SorteoDBContext.cs",
+              "RelativeToolTip": "SorteoAPI\\Data\\SorteoDBContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:10:15.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SorteosController.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Controllers\\SorteosController.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Controllers\\SorteosController.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Controllers\\SorteosController.cs*",
+              "RelativeToolTip": "SorteoAPI\\Controllers\\SorteosController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:32:51.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "SorteoAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:08:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SorteoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Los Barrios C\\source\\repos\\SorteoAPI\\SorteoAPI\\Program.cs",
+              "RelativeToolTip": "SorteoAPI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:56:22.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
